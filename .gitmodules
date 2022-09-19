@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "missForest"]
-	path = missForest
-	url = https://github.com/stekhoven/missforest
-	shallow = true
-	registered = true
